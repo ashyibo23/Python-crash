@@ -15,7 +15,7 @@ In this tutorial, it's covered:
 * IPython: Creating notebooks, Typical workflows
 
 
-Credits:
+Acknowledgement:
 
 This tutorial was originally contributed by Justin Johnson. He is an Lecturer (Assistant Professor) at the University of Michigan and a Visiting Scientist at Facebook AI Research.
 
