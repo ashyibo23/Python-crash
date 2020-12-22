@@ -17,6 +17,5 @@ In this tutorial, we will cover:
 
 Credits:
 
-This tutorial was originally contributed by Justin Johnson. He is Assistant Professor at the University of Michigan and a Visiting Scientist at Facebook AI Research.
+This tutorial was originally contributed by Justin Johnson. He is an Lecturer (Assistant Professor) at the University of Michigan and a Visiting Scientist at Facebook AI Research.
 
-Special thanks to Standford University for Convolutional Neural Networks for Visual Recognition. 
