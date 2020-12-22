@@ -7,7 +7,7 @@ Expected to have some experience with Python and numpy; for the rest of this sec
 
 Some of you may have previous knowledge in Matlab, in which case it's recommended the numpy for Matlab users page (https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html).
 
-In this tutorial, we will cover:
+In this tutorial, it's covered:
 
 * Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes
 * Numpy: Arrays, Array indexing, Datatypes, Array math, Broadcasting
